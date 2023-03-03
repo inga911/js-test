@@ -1,0 +1,24 @@
+{
+  "name": "js-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "testas" : "nodemon ./js/testas",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inga911/js-test.git"
+  },
+  "keywords": [],
+  "author": "Inga (https://github.com/inga911)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inga911/js-test/issues"
+  },
+  "homepage": "https://github.com/inga911/js-test#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
